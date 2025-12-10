@@ -2,7 +2,7 @@ const cars = [
   {
     "id": 1,
     "title": "Honda Civic Sedan 2023",
-    "image": "./public/assets/Honda Civic sedan 2023.avif",
+    "image": "/assets/Honda Civic sedan 2023.avif",
     "price": 133,
     "priceDuration": "for 3 days",
     "trips": 0,
@@ -13,7 +13,7 @@ const cars = [
   {
     "id": 2,
     "title": "Chevrolet Traverse SUV 2023",
-    "image": "./public/assets/Chevrolet Traverse  SUV 2023.avif",
+    "image": "/assets/Chevrolet Traverse  SUV 2023.avif",
     "price": 211,
     "priceDuration": "for 3 days",
     "trips": 97,
@@ -24,7 +24,7 @@ const cars = [
   {
     "id": 3,
     "title": "Ford Maverick Hybrid 2024",
-    "image": "./public/assets/Ford Maverick Hybrid 2024.avif",
+    "image": "/assets/Ford Maverick Hybrid 2024.avif",
     "price": 168,
     "priceDuration": "for 3 days",
     "trips": 66,
@@ -35,7 +35,7 @@ const cars = [
   {
     "id": 4,
     "title": "Honda Accord sedan 2023",
-    "image": "./public/assets/Honda Accord sedan 2023.avif",
+    "image": "/assets/Honda Accord sedan 2023.avif",
     "price": 192,
     "priceDuration": "for 3 days",
     "trips": 0,
@@ -48,7 +48,7 @@ const cars = [
   {
     "id": 5,
     "title": "Honda Civic sedan 2023",
-    "image": "./public/assets/Honda Civic sedan 2023.avif",
+    "image": "/assets/Honda Civic sedan 2023.avif",
     "price": 185,
     "priceDuration": "for 3 days",
     "trips": 1,
@@ -59,7 +59,7 @@ const cars = [
   {
     "id": 6,
     "title": "Hyundai Ioniq 5 2024",
-    "image": "./public/assets/Hyundai Ioniq 5 2024.avif",
+    "image": "/assets/Hyundai Ioniq 5 2024.avif",
     "price": 199,
     "priceDuration": "for 3 days",
     "trips": 34,
@@ -70,7 +70,7 @@ const cars = [
   {
     "id": 7,
     "title": "Kia EV9 electric SUV 2024",
-    "image": "./public/assets/Kia EV9 electric SUV 2024.avif",
+    "image": "/assets/Kia EV9 electric SUV 2024.avif",
     "price": 149,
     "priceDuration": "for 3 days",
     "trips": 12,
@@ -81,7 +81,7 @@ const cars = [
   {
     "id": 8,
     "title": "Subaru Crosstrek SUV 2024",
-    "image": "./public/assets/Subaru Crosstrek SUV 2024.avif",
+    "image": "/assets/Subaru Crosstrek SUV 2024.avif",
     "price": 255,
     "priceDuration": "for 3 days",
     "trips": 87,
@@ -92,7 +92,7 @@ const cars = [
   {
     "id": 9,
     "title": "Subaru Forester SUV 2022",
-    "image": "./public/assets/Subaru Forester SUV 2022.avif",
+    "image": "/assets/Subaru Forester SUV 2022.avif",
     "price": 230,
     "priceDuration": "for 3 days",
     "trips": 143,
@@ -103,7 +103,7 @@ const cars = [
   {
      "id": 10,
      "title": "Tesla Model Y 2024",
-     "image": "./public/assets/Tesla Model Y 2024.avif",
+     "image": "/assets/Tesla Model Y 2024.avif",
      "price": 270,
      "priceDuration": "for 3 days",
      "trips": 61,
@@ -114,7 +114,7 @@ const cars = [
   {
     "id": 11,
     "title": "Toyota Camry sedan 2023",
-    "image": "./public/assets/Toyota Camry sedan 2023.avif",
+    "image": "/assets/Toyota Camry sedan 2023.avif",
     "price": 175,
     "priceDuration": "for 3 days",
     "trips": 8,
@@ -125,7 +125,7 @@ const cars = [
   {
     "id": 12,
     "title": "Toyota Prius Prime 2023",
-    "image": "./public/assets/Toyota Prius Prime 2023.avif",
+    "image": "/assets/Toyota Prius Prime 2023.avif",
     "price": 160,
     "priceDuration": "for 3 days",
     "trips": 46,
